@@ -22,9 +22,8 @@ Les données collectées sont exportées dans des fichiers JSON et CSV, et un fi
 
 ## 📁 Structure des Fichiers de Sortie
 
-- **`page_links.json`** : Contient les liens de chaque page de la catégorie.
-- **`parfum_links.json`** : Stocke les liens des parfums filtrés par catégorie.
-- **`parfum_data.json`** : Enregistre les informations complètes de chaque parfum.
+- **`resultats.json`** : Contient les informations de chaque page de la catégorie.
+- **`products_info.json`** : Enregistre les informations complètes de chaque parfum.
 - **`parfums_info_marketplace.csv`** : Fichier CSV final pour analyse sur un tableur ou importation en base de données.
 
 ---
